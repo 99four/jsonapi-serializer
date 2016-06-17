@@ -231,3 +231,4 @@ new JSONAPIDeserializer({
 # License
 
 [MIT](https://github.com/SeyZ/jsonapi-serializer/blob/master/LICENSE)
+# jsonapi
